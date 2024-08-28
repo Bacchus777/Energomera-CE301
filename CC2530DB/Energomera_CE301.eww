@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\Energomera_CE301.ewp</path>
+    </project>
+    <batchBuild>
+        <batchDefinition>
+            <name>ALL</name>
+            <member>
+                <project>Energomera_CE301</project>
+                <configuration>Energomera_CE301_EndDevice</configuration>
+            </member>
+            <member>
+                <project>Energomera_CE301</project>
+                <configuration>Energomera_CE301_Router</configuration>
+            </member>
+            <member>
+                <project>Energomera_CE301</project>
+                <configuration>Energomera_CE301_Router_CC2592</configuration>
+            </member>
+            <member>
+                <project>Energomera_CE301</project>
+                <configuration>Energomera_CE301_EndDevice_CC2592</configuration>
+            </member>
+            <member>
+                <project>Energomera_CE301</project>
+                <configuration>Energomera_CE301_EndDevice_CC2591</configuration>
+            </member>
+            <member>
+                <project>Energomera_CE301</project>
+                <configuration>Energomera_CE301_Router_CC2591</configuration>
+            </member>
+        </batchDefinition>
+    </batchBuild>
+</workspace>
